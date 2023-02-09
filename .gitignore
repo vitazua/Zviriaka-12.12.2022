@@ -1,1 +1,13 @@
 .DS_Store
+/shelf/
+/workspace.xml
+/HelloWorld
+/HelloWorld.iml
+/Hillel_Zviriaka.iml
+out/production/.DS_Store'
+out/.DS_Store
+.gitignore
+src/Hometask2
+src/Hometask4
+src/Hometask5
+out
