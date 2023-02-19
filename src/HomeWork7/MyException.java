@@ -1,4 +1,4 @@
-package HomeTask7;
+package HomeWork7;
 
 public class MyException extends Exception {
 
